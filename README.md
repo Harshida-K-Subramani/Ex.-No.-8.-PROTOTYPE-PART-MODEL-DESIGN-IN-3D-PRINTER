@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 29-04-2025
+### DATE: 02-05-2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,9 +47,10 @@
 
 ## Output:
 
-![exp3 ss1](https://github.com/user-attachments/assets/8cff38cc-e323-4bdc-9d6f-b8994538a650)
+![exp3op1](https://github.com/user-attachments/assets/de346fa9-2210-4690-bbd1-00c9e35b561d)
 
-![exp3 ss2](https://github.com/user-attachments/assets/cfaa50f7-da9a-4b6c-9083-0588fbabe96f)
+![exp3op2](https://github.com/user-attachments/assets/fdfea0a4-7ae1-4fad-8539-dec5c5cbc2f4)
+
 
 
 ### Name: HARSHIDA K S
